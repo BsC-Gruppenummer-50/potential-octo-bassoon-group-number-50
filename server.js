@@ -1,4 +1,5 @@
-// server.js
+// Har null funksjon per til nå/ kan brukes hvis vi trenger
+//  server.js
 const express = require("express");
 const path = require("path");
 
